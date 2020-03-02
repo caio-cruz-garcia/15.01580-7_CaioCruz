@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class EntradadeDados {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scanner = new Scanner(System.in);
+		String nome;
+		System.out.println("Informe Seu Nome:");
+		nome = scanner.nextLine();
+		System.out.println("Olá " + nome);
+
+	}
+
+}
