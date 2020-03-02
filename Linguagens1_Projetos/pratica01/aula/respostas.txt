@@ -1,0 +1,8 @@
+1. C:\Program Files\Java\jdk1.8.0_162
+2. C:\Program Files\Java\jdk1.8.0_162\bin
+3. javac nome do arquivo
+4. java -nome do arquivo arquivo
+5. variaveis que o sistema operacional usa para achar as coisas
+6. no seu ambiente pode
+7. stex nome valor
+8. java_home é onde o programa do java fica no computador
